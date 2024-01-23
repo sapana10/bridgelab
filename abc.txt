@@ -1,0 +1,4 @@
+for()[D())[D[Di=2; i<4; i++))
+do
+echo ""[Dhello"
+done
